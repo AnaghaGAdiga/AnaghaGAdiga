@@ -68,6 +68,7 @@ Task management system using Laravel and tested via Postman.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github" />
 </p>
+
 ---
 
 ## 🏅 Certifications & Achievements
@@ -90,12 +91,15 @@ Task management system using Laravel and tested via Postman.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaGAdiga&layout=compact&theme=tokyonight" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=radical" alt="Anagha's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnaghaGAdiga&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaghaGAdiga&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaGAdiga&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
