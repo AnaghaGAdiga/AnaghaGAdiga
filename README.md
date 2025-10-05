@@ -18,7 +18,7 @@
 
 **WorInwell — Web Development Intern (Back-End)**  
 ✔ Developed backend logic for a web application using Node.js and MySQL  
-✔ Learnt about PHP and Laravel.
+✔ Learnt about PHP and Laravel
 ✔ Integrated APIs and optimized data flow for seamless user experience  
 
 **InternPe — Web Development Intern**  
