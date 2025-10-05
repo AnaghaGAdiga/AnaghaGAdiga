@@ -94,8 +94,10 @@ Task management system using Laravel and tested via Postman.
   <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=radical" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaGAdiga&layout=compact&theme=radical" width="300" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnaghaGAdiga&theme=radical" alt="GitHub streak" />
+</p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaghaGAdiga&theme=radical" alt="GitHub streak" /> </p>
 
 ---
 
