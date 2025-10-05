@@ -16,17 +16,14 @@
 ✔ Gained hands-on experience in software design, cloud workflows & automation  
 ✔ Collaborated with mentors to enhance system performance  
 
-**Wipro TalentNext – Data Science Program (Trainee) (Aug 2025 – Present)**  
-✔ Selected for advanced industry-ready training in Data Science & Automation Tools  
-✔ Worked with Python, Machine Learning, and Data Analysis on real-world projects  
-✔ Bridging the gap between academics and corporate skills  
-
 **WorInwell — Web Development Intern (Back-End)**  
 ✔ Developed backend logic for a web application using Node.js and MySQL  
+✔ Learnt about PHP and Laravel.
 ✔ Integrated APIs and optimized data flow for seamless user experience  
 
 **InternPe — Web Development Intern**  
 ✔ Built responsive and functional web components using HTML, CSS, and JS  
+✔ Built different projects like simple calculator etc
 
 **CSRBox x IBM SkillsBuild — CyberSecurity Intern**  
 ✔ Learned network security fundamentals, cryptography, and system hardening  
@@ -57,18 +54,20 @@ Task management system using Laravel and tested via Postman.
 
 ## 🧠 Skills
 
-**Languages:**  
-💻 C • C++ • Java • Python • JavaScript • PHP  
+#### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css,sql" />
+</p>
 
-**Web Development:**  
-🌐 HTML • CSS • React.js • Node.js • Spring Boot • Vite  
+#### 🌐 Web & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,bootstrap,vite" />
+</p>
 
-**Databases & Tools:**  
-🗄️ MySQL • MongoDB • PostgreSQL • Docker  
-
-**Version Control:**  
-🔧 Git • GitHub  
-
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github" />
+</p>
 ---
 
 ## 🏅 Certifications & Achievements
