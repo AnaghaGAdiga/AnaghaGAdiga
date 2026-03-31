@@ -87,14 +87,12 @@ Task management system using Laravel and tested via Postman.
 - 🧩 Java Full Stack with React JS & AI Program (Brainovision + AICTE)  
 
 ---
-
-## 📊 GitHub Analytics
+## Git Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=radical" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaGAdiga&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=radical" alt="GitHub Stats" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaGAdiga&layout=compact&theme=radical" alt="Top Languages" width="380" />
 </p>
-
 ---
 
 ## 📈 Extra Goodies
