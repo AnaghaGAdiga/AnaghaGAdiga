@@ -69,6 +69,14 @@ Task management system using Laravel and tested via Postman.
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaghaGAdiga&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaghaGAdiga&theme=radical" alt="GitHub Streak" width="400" />
+</p>
+
 ---
 
 ## 🏅 Certifications & Achievements
